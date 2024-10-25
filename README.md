@@ -72,4 +72,5 @@ def download_audio(link, audio_path):
 Las contribuciones son bienvenidas. Si encuentras algún error o tienes alguna sugerencia de mejora, por favor abre un issue o envía un pull request.  
 Cualquier persona es completamente libre de hacer mejoras al código. Si tienes alguna idea que pueda mejorar la aplicación, no dudes en compartirla.
 
-## Presenta: Samuel Mena Pupiales (Sam100uel@gmail.com)
+## Presenta: 
+Samuel Mena Pupiales (Sam100uel@gmail.com)
